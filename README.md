@@ -14,5 +14,4 @@ https://mohammedafrid126.github.io/Analog-clock/
 
 
 ## Tech Stack
-
 HTML, CSS and JS.
